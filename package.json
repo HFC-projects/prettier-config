@@ -1,5 +1,5 @@
 {
-  "name": "@yass/prettier-config",
+  "name": "@yaas/prettier-config",
   "version": "1.0.0",
   "description": "Prettier Config",
   "main": "index.json",
